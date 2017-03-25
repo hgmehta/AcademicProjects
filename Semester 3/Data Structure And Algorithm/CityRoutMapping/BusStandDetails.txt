@@ -1,0 +1,123 @@
+000_Akhbarnagar
+001_Andhjan Mandal (IIM)
+002_Anjali
+003_Ambli Gam
+004_Ashok Vatika
+005_Anthariksh Colony
+006_Ajit Mill
+007_Avani Bhavan (ONGC)
+008_Astodiya Darwaja
+009_Astodiya Chakla
+010_Arvind Mill
+011_Bhavsar hostel
+012_BRTS Workshop
+013_Bapunagar Approach
+014_Bethak
+015_Bopal
+016_Bopal Approach
+017_Bhuyangdev
+018_Chandranagar
+019_Chhipa Society
+020_Chandola Lake
+021_CTM Cross Roads
+022_Chhotalal Ni Chali
+023_Chandkheda (Gam)
+024_Dharnidhar Derasar
+025_Danilimda Cross Roads
+026_Danilimda Road
+027_Dhanush Dhari Mandir
+028_Express Highway Junction
+029_Gujarat University
+030_Ghodasar
+031_Geeta Gauri Cinema
+032_Gurudwara
+033_Ghuma
+034_Ghuma Gam
+035_Grid Station
+036_G.C.S. Hospital
+037_Geening Press
+038_Himmatlal Park
+039_Hiravadi
+040_Hanumanpura
+041_Isanpur
+042_ISKCON Mandir
+043_ISKCON Cross Roads
+044_ISRO
+045_Jaymangal
+046_Jhansi Ki Rani
+047_Jashodanagar Cross Roads
+048_Jogeshwari Society
+049_Juna Vadaj
+050_Jayantilal Park
+051_Jodhpur Cross Roads
+052_Janta Nagar
+053_Khodiyarnagar
+054_Kankaria Telephone Exchange
+055_Kankaria Lake
+056_Kashiram Textiles
+057_Krishna Nagar
+058_Kalupur Railway Station 
+059_Karnamukteshwar Mahadev
+060_Lilanagar
+061_Lokmanya Tilak Bag
+062_Memnagar
+063_Manekbaug
+064_Maninagar Char Rasta
+065_Mukesh Industries
+066_Morlidhar Society
+067_Motera Cross Roads
+068_Municipal Corporation Office
+069_Memco Cross Road
+070_Municipal Corporation North Zone Office
+071_Nehrunagar
+072_Narol
+073_Naroda ST Workshop
+074_Nava Vadaj
+075_Naroda Fruit Market
+076_Odhav Fire Station
+077_Odhav Talav (Gam)
+078_Pragatinagar
+079_Purvdeep Society
+080_Parasnagar
+081_Parshwanath Jain Mandir
+082_RTO Circle
+083_Ranip
+084_Rambaug
+085_Rabari Colony
+086_Ramrajya Nagar
+087_Rameshwar Park
+088_Ramapir No Tekro
+089_Ramdevnagar
+090_Rathi Apartment
+091_Raipur Darwaja
+092_Raikhad Cross Roads
+093_Shastrinagar
+094_Sola Cross Roads
+095_Shivranjani
+096_Swaminarayan College
+097_Soni Ni Chali
+098_Swagat Bungalow
+099_Star Bazaar
+100_Sarkari Litho Press 
+101_Sattadhar
+102_Sola Bridge
+103_Shiva Shakti Nagar
+104_Sabarmati Police Station
+105_Sabarmati Municipal Swimming Pool
+106_Sabarmati Power House
+107_Sarangpur Darwaja
+108_Thakkarnagar Approach
+109_Town Hall
+110_Vaikunthdham Mandir
+111_Valinath Chowk
+112_Vasna
+113_Viratnagar
+114_Vijay Park
+115_Vallabh Nagar
+116_Visat Gandhinagar Junction
+117_Zundal Circle
+118_Maninagar
+119_Naroda Gam
+120_S P Ring Road
+121_Science City Approach
+122_Naroda
