@@ -1,0 +1,42 @@
+Name	Id	Address	Gender	Salary Per Day
+
+Nurse0	NR101	Naranpura	Female	500
+Nurse1	NR102	Navrangpura	Female	500
+Nurse2	NR103	Shahpur	Female	500
+Nurse3	NR104	Maninagar	Female	500
+Nurse4	NR105	Mirzapur	Female	500
+Nurse5	NR106	Khadia	Female	500
+Nurse6	NR107	Science city	Female	500
+Nurse7	NR108	Bopal	Female	500
+Nurse8	NR109	Pragatinagar	Female	500
+Nurse9	NR110	Shastrinagar	Female	500
+Nurse10	NR111	Satellite	Female	500
+Nurse11	NR112	CG road	Female	500
+Nurse12	NR113	SG highway	Female	500
+Nurse13	NR114	Kalupur	Female	500
+Nurse14	NR115	Ranip	Female	500
+Nurse15	NR116	Vastrapur	Female	500
+Nurse16	NR117	Judges bungalow	Female	500
+Nurse17	NR118	Shahibaug	Female	500
+Nurse18	NR119	Hatkeshwar	Female	500
+Nurse19	NR120	RTO	Female	500
+Nurse20	NR121	Chandranagar	Female	500
+Nurse21	NR122	Paldi	Female	500
+Nurse22	NR123	Anjali	Female	500
+Nurse23	NR124	Nehrunagar	Female	500
+Nurse24	NR125	Naroda	Female	500
+Nurse25	NR126	Naranpura	Female	500
+Nurse26	NR127	Navrangpura	Female	500
+Nurse27	NR128	Satellite	Female	500
+Nurse28	NR129	Vastrapur	Female	500
+Nurse29	NR130	Satellite	Female	500
+WardBoy0	WB101	Naranpura	Male	300
+WardBoy1	WB102	Navrangpura	Male	300
+WardBoy2	WB103	Shahpur	Male	300
+WardBoy3	WB104	Maninagar	Male	300
+WardBoy4	WB105	Mirzapur	Male	300
+WardBoy5	WB106	Khadia	Male	300
+WardBoy6	WB107	Science city	Male	300
+WardBoy7	WB108	Bopal	Male	300
+WardBoy8	WB109	Pragatinagar	Male	300
+WardBoy9	WB110	Shastrinagar	Male	300
