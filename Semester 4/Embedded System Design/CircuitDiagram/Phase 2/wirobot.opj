@@ -1,0 +1,62 @@
+(ExpressProject "Design4"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\esp8266.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\wirobot.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\wirobot.DSN"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\wirobot.dsn")
+      (Path "Design Resources" ".\wirobot.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\esp8266.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 318"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1160 26 383")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "598 209")
+        (Zoom "180"))
+      (Path "D:\SEM 4\ESD\PROJECT\CIRCUITDIAGRAM\PHASE 2\ESP8266.OLB")
+      (Package "ESP8266"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1186 52 409")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "0 0")
+        (Zoom "90"))
+      (Path "D:\SEM 4\ESD\PROJECT\CIRCUITDIAGRAM\PHASE 2\ESP8266.OLB")
+      (Package "LDR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1264 130 487")
+        (Scroll "-58 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SEM 4\ESD\PROJECT\CIRCUITDIAGRAM\PHASE 2\WIROBOT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "WiRobotCircuit")))
+  (PartMRUSelector)
+  (MPSSessionName "harsh"))

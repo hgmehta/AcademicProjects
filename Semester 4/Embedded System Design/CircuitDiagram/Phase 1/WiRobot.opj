@@ -1,0 +1,89 @@
+(ExpressProject "Design2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\components.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\wirobot.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\PSPICE.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LDR
+      (FullPartName "LDR.Normal")
+      (LibraryName "D:\SEM 4\ESD\PROJECT\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\PSPICE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ATmega162-DIL40small
+      (FullPartName "ATmega162-DIL40small.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\AVR.OLB")
+      (DeviceIndex "0"))
+    (ATmega8-DIL28small
+      (FullPartName "ATmega8-DIL28small.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\AVR.OLB")
+      (DeviceIndex "0"))
+    (ESP8266
+      (FullPartName "ESP8266.Normal")
+      (LibraryName "D:\SEM 4\ESD\PROJECT\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\wirobot.dsn")
+      (Path "Design Resources" ".\wirobot.dsn" "WiRobot")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\components.olb")
+      (Select "Design Resources" "Library" ".\components.olb" "LDR"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 318"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1186 52 409")
+        (Scroll "-58 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SEM 4\ESD\PROJECT\CIRCUITDIAGRAM\WIROBOT.DSN")
+      (Schematic "WiRobot")
+      (Page "WiRobotCircuit"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 919 78 435")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1043 375")
+        (Zoom "361"))
+      (Path "D:\SEM 4\ESD\PROJECT\CIRCUITDIAGRAM\COMPONENTS.OLB")
+      (Package "LDR")))
+  (MPSSessionName "harsh"))
