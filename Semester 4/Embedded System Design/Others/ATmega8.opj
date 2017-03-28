@@ -1,0 +1,97 @@
+(ExpressProject "Design3"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library2.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\atmega8.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_ARROW
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ESP8266
+      (FullPartName "ESP8266.Normal")
+      (LibraryName "D:\SEM 4\ESD\PROJECT\LIBRARY2.OLB")
+      (DeviceIndex "0"))
+    (L293D
+      (FullPartName "L293D.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON"
+      (FullPartName "SW PUSHBUTTON.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\PSPICE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\PSPICE.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ATMega8-TQFP32
+      (FullPartName "ATMega8-TQFP32.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\AVR.OLB")
+      (DeviceIndex "0"))
+    (ATmega8-TQ32
+      (FullPartName "ATmega8-TQ32.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\AVR.OLB")
+      (DeviceIndex "0"))
+    (ATmega8-MLF32
+      (FullPartName "ATmega8-MLF32.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\AVR.OLB")
+      (DeviceIndex "0"))
+    (ATmega8-DIL28
+      (FullPartName "ATmega8-DIL28.Normal")
+      (LibraryName "D:\DONT SEE PATH PLEASE\AVR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\atmega8.dsn")
+      (Path "Design Resources" ".\atmega8.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library" "D:\SEM 4\ESD\Project\library2.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 318"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 841 0 357")
+        (Scroll "5 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\SEM 4\ESD\PROJECT\ATMEGA8.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 893 52 409")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "424 172")
+        (Zoom "176"))
+      (Path "D:\SEM 4\ESD\PROJECT\LIBRARY2.OLB")
+      (Package "ESP8266"))))
