@@ -1,3 +1,0 @@
-ADD a b Addition
-SUB c d Subtraction
-MUL e f Multiplication
