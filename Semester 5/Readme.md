@@ -2,7 +2,7 @@
 
 As part for the curricular projects we made two projects. 
   - [Computer Networks](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%205/Computer%20Networks) 
-  - [Operating System](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Operating%20System)
+  - [Operating System](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%205/Operating%20System)
 
 # Computer Networks
 
