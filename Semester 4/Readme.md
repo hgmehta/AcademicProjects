@@ -1,10 +1,10 @@
 # Semester 4
 
 As part for the curricular projects we made four projects. 
-  - [Analog and Digital Communication](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Analog%20and%20Digital%20Communication) 
-  - [Database Management System](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Databse%20Management%20System)
-  - [Economics](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Economics)
-  - [Embedded System Design](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Embedded%20System%20Design)
+  - [Analog and Digital Communication](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%204/Analog%20and%20Digital%20Communication) 
+  - [Database Management System](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%204/Databse%20Management%20System)
+  - [Economics](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%204/Economics)
+  - [Embedded System Design](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%204/Embedded%20System%20Design)
 
 # Analog and Digital Communication
 
