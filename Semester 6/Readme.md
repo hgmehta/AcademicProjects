@@ -1,8 +1,8 @@
 # Semester 6
 
 As part for the curricular projects we made two projects. 
-  - [Digital Signal Processing](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%205/Digital%20Signal%20Processing) 
-  - [Software Engineering](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Software%20Engineering)
+  - [Digital Signal Processing](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%206/Digital%20Signal%20Processing) 
+  - [Software Engineering](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%206/Software%20Engineering)
 
 # Digital Signal Processing
 
