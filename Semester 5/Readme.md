@@ -2,9 +2,7 @@
 
 As part for the curricular projects we made two projects. 
   - [Computer Networks](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%205/Computer%20Networks) 
-  - [Operating System](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Operating%20System)
-  - [Economics](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Economics)
-  - [Embedded System Design](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%203/Embedded%20System%20Design)
+  - [Operating System](https://github.com/hgmehta/AcademicProjects/tree/master/Semester%205/Operating%20System)
 
 # Computer Networks
 
